@@ -34,7 +34,7 @@ Building practical software, learning continuously, and creating technology that
 ### Frameworks & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,bootstrap,docker,postgresql" />
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,bootstrap,docker,postgresql,odoo17" />
 </p>
 
 ### Development Tools
