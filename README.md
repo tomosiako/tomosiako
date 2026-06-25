@@ -86,15 +86,6 @@ Building practical software, learning continuously, and creating technology that
 
 ---
 
-## 📂 Featured Projects
-
-Add your best repositories here.
-
-🔹 Project One — Short description
-🔹 Project Two — Short description
-🔹 Project Three — Short description
-
----
 
 ## 📫 Connect With Me
 
