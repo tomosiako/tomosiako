@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Brian Bulimo
 
 ### Computer Scientist | Software Developer | Problem Solver
 
@@ -59,21 +59,6 @@ I am a Computer Science graduate and software developer passionate about buildin
 
 ---
 
-## 📌 Featured Projects
-
-### Project 1 — [Project Name]
-Short description of what the project does.
-
-**Tech:** Python | Django | MySQL
-
----
-
-### Project 2 — [Project Name]
-Short description of the project.
-
-**Tech:** JavaScript | HTML | CSS
-
----
 
 ## 📈 GitHub Stats
 
